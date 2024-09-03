@@ -30,8 +30,8 @@
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://www.nsmao.com/)
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://www.nsmao.com/)
   
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carefreezi&layout=compact)
-![GithubStats](https://github-readme-stats.vercel.app/api?username=carefreezi&show_icons=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nice-CareFree&layout=compact)
+![GithubStats](https://github-readme-stats.vercel.app/api?username=Nice-CareFree&show_icons=true)
 
 ### My Skill Set
 <table><tr><td valign="top" width="33%">
